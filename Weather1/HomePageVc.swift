@@ -77,4 +77,6 @@ class HomePageVc: UIViewController {
     }
 }
 
-
+extension HomePageVc {
+    
+}
